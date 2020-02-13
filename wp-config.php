@@ -84,6 +84,7 @@ $table_prefix = 'wp_';
 define( 'WP_DEBUG', false );
 
 define('VP_GIT_BINARY', '/usr/local/bin/git');
+define('VP_ENVIRONMENT', 'aybek');
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */
